@@ -52,7 +52,7 @@ int main ()
 			rowop += 1;
 			divisor = matrix[lead][lead];
 			multiplier = matrix[r][lead] / matrix[lead][lead];
-			
+			cout << endl;
 			cout << "=============== " << "Rowoparation: " << rowop << " ===============" <<endl;
 			cout << endl;
 			
