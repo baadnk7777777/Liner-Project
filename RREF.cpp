@@ -11,7 +11,7 @@ int main ()
 	cin >> N;
 	cout << "Input Rows [M]: ";
 	cin >> M;
-	float matrix[M][N];
+	double matrix[M][N];
 	
 	for(i=0;i<M;i++)
 	{
